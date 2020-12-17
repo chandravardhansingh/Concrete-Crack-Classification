@@ -1,5 +1,5 @@
 # ConcreteCrackClassification
-MODEL TRAINING GUIDE
+Model training guide for detecting cracks on concrete surfaces.
 
 Step 1: In terminal, traverse into the Pipeline folder.
 
