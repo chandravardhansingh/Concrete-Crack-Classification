@@ -1,0 +1,4 @@
+/home/ubuntu/dataset/ConcreteDataset/a/Negative/
+/home/ubuntu/dataset/ConcreteDataset/b/neg/
+/home/ubuntu/dataset/ConcreteDataset/c/neg/
+/home/ubuntu/dataset/ConcreteDataset/d/neg/

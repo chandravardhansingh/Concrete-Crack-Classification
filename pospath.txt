@@ -1,0 +1,4 @@
+/home/ubuntu/dataset/ConcreteDataset/a/Positive/
+/home/ubuntu/dataset/ConcreteDataset/b/pos/
+/home/ubuntu/dataset/ConcreteDataset/c/pos/
+/home/ubuntu/dataset/ConcreteDataset/d/pos/
